@@ -3,7 +3,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&width=800&lines=AI+Engineer;Machine+Learning+Developer;Data+Science+Enthusiast;Generative+AI+Builder" />
 </p>
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="450">
 
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
