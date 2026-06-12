@@ -94,21 +94,7 @@ Build impactful AI products that solve real-world problems.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tharun8571&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tharun8571&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharun8571&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
