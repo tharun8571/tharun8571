@@ -1,35 +1,34 @@
-<h1 align="center">Hi 👋, I'm Tharun R</h1>
+<h1 align="center">Hi , I'm Tharun R</h1>
 <h3 align="center">AI & Machine Learning Enthusiast | Data Science Student | GenAI Explorer</h3>
 <p align="center">
 
 ---
 
-## 🚀 About Me
 
-<img align="right" alt="AI Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+##  About Me
 
-🎓 **B.Tech Artificial Intelligence & Data Science Student**
+<img align="right" alt="AI Animation" width="450" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI**
+ **B.Tech Artificial Intelligence & Data Science Student**
 
-📊 Interested in **Data Analytics, Predictive Modeling, and Real-world AI Applications**
+ Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI
 
-🌱 **Currently Learning:**
+ Interested in Data Analytics, Predictive Modeling, and Real-world AI Applications
+
+ **Currently Learning**
 - Advanced Machine Learning
 - Generative AI & RAG Systems
 - LangChain & LLM Applications
 - MLOps & Deployment
 
-💡 **Goal:**
+ **Goal**
 Build impactful AI products that solve real-world problems.
 
 <br clear="right"/>
 
 ---
 
----
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -50,54 +49,70 @@ Build impactful AI products that solve real-world problems.
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🎬 Movie Recommendation System
+<img align="right" width="400" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
+
+###  Movie Recommendation System
 - Built using Machine Learning
 - Content-Based Filtering
 - Collaborative Filtering
 - Recommendation Engine using Movie Metadata
 
-### 📺 YouTube Transcript RAG
+###  YouTube Transcript RAG
 - Retrieval Augmented Generation (RAG)
 - Transcript Embeddings
 - Vector Database Search
 - LangChain + LLM Integration
 
-### 📈 Gold Price Prediction
+###  Gold Price Prediction
 - Machine Learning Regression Models
 - Data Analysis & Visualization
 - Price Forecasting System
 
+<br clear="right"/>
+
+---
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-🥇 Finalist – Eka Care Hackathon 2026
+ Finalist – Eka Care Hackathon 2026
 
-✔ Developed an AI-powered healthcare solution
+ Developed an AI-powered healthcare solution
 
-✔ Presented a working prototype to industry experts
+ Presented a working prototype to industry experts
 
 ---
 
 ## 💼 Experience
 
+<img align="right" width="420" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BsMXpqMTZqaWY0am9xNGt0NXk0OHpoODE1cXQyaThxZ3Z5Mmt2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDgI3leJTk7MQuY/giphy.gif">
+
 ### AI/ML Intern
-- Machine Learning Model Development
-- Data Preprocessing & Feature Engineering
-- AI Solution Development
+
+🔹 Machine Learning Model Development
+🔹 Data Preprocessing & Feature Engineering
+🔹 AI Solution Development
+🔹 Model Evaluation & Performance Optimization
+🔹 Collaboration with Cross-Functional Teams
 
 ### Titan Internship
-- Gold Price Prediction Project
-- Forecasting using Machine Learning
-- Team-based Product Development
 
+🔹 Gold Price Prediction Project
+🔹 Forecasting using Machine Learning Models
+🔹 Data Analysis & Visualization
+🔹 Feature Engineering & Data Cleaning
+🔹 Team-based Product Development
+
+<br clear="right"/>
+
+---
 ---
 
 
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 📧 Email: tharunyaswanth@gmail.com
 
@@ -107,4 +122,4 @@ Build impactful AI products that solve real-world problems.
 
 ---
 
-⭐ "Building AI solutions that create real-world impact."
+"Building AI solutions that create real-world impact."
