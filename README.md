@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tharun R</h1>
 <h3 align="center">AI & Machine Learning Enthusiast | Data Science Student | GenAI Explorer</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&width=800&lines=AI+Engineer;Machine+Learning+Developer;Data+Science+Enthusiast;Generative+AI+Builder" />
+</p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 <p align="center">
   <a href="https://github.com/tharun8571">
     <img src="https://komarev.com/ghpvc/?username=tharun8571&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
